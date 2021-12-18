@@ -2,6 +2,9 @@
 
 Shader Fes 2021 にて展示している作品のサンプルです。
 
+Released under the MIT license
+
+
 Shader Fes 2021
 https://sites.google.com/view/shaderfes
 
